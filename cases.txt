@@ -1,0 +1,6 @@
+* camelCase
+! 
+
+ c++ pascal, C#, rust pass by reference
+
+ Python pass by value
